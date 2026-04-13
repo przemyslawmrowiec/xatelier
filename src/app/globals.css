@@ -1,17 +1,56 @@
+/* ==========================================================================
+   Tailwind base
+   ========================================================================== */
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
+/* ==========================================================================
+   Design tokens (Tailwind v4 @theme inline)
+   - Trzymaj tu mapowania kolorów, fontów i predefiniowanych animacji
+   ========================================================================== */
 @theme inline {
+  /* Kolory powiązane z CSS vars niżej */
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+
+  /* Next/font: systemowe aliasy */
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+
+  /* Mapowania fontów lokalnych (next/font/local → CSS var) */
+  --font-aventa: var(--font-aventa), system-ui, sans-serif;
+  --font-orlean: var(--font-orlean), ui-sans-serif, system-ui, -apple-system, "Segoe UI",
+                 Roboto, Arial, "Noto Sans", "Helvetica Neue", sans-serif;
+
+  /* Predefiniowane animacje jako zmienne (łatwe użycie w utilkach) */
+  --animate-vibrate-x: vibrateX 0.45s ease-in-out both;
+  --animate-text-burst: textSpring var(--cta-duration,650ms) cubic-bezier(.22,1,.36,1) 1,
+                        textShine 520ms ease-out 60ms 1 both;
+  --animate-arrow-vibrate: arrowVibrate 0.6s ease-in-out infinite;
 }
 
+/* ==========================================================================
+   Global CSS variables
+   ========================================================================== */
+:root {
+  /* Kolory bazowe */
+  --background: #ffffff;
+  --foreground: #171717;
+
+  /* Easing i dynamiczna ścieżka clip-path dla panelu w NavBar */
+  --ease-smoo: cubic-bezier(0.22, 1, 0.36, 1);
+  --panel-clip: none;
+
+  /* Wyłącz syntetyczne pogrubianie */
+  font-synthesis-weight: none;
+  --header-h: 96px;
+}
+
+@media (min-width: 768px) {
+  :root { --header-h: 80px; } /* przykład dla desktopu */
+}
+
+
+/* Dark mode via prefers-color-scheme */
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
@@ -19,8 +58,125 @@
   }
 }
 
+/* ==========================================================================
+   Base styles
+   ========================================================================== */
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
 }
+
+/* R3F: Canvas zawsze bez tła */
+canvas.r3f-canvas {
+  background-color: transparent !important;
+}
+
+/* ==========================================================================
+   Keyframes
+   ========================================================================== */
+@keyframes vibrateX {
+  0%, 100% { transform: translateX(0) }
+  20%      { transform: translateX(-2px) }
+  40%      { transform: translateX(2px) }
+  60%      { transform: translateX(-2px) }
+  80%      { transform: translateX(2px) }
+}
+
+@keyframes textSpring {
+  0%   { transform: translateY(0) scaleX(1);     letter-spacing: 0em }
+  40%  { transform: translateY(-1px) scaleX(1.015); letter-spacing: 0.02em }
+  70%  { transform: translateY(0) scaleX(0.998);    letter-spacing: 0.005em }
+  100% { transform: translateY(0) scaleX(1);     letter-spacing: 0em }
+}
+
+@keyframes textShine {
+  0%   { background-position: 0% 50% }
+  100% { background-position: 100% 50% }
+}
+
+@keyframes arrowVibrate {
+  0%, 100% { transform: translateX(0) }
+  50%      { transform: translateX(3px) }
+}
+
+/* ==========================================================================
+   Utilities: animacje
+   ========================================================================== */
+.animate-vibrate-x     { animation: var(--animate-vibrate-x); }
+.animate-text-burst    { animation: var(--animate-text-burst); }
+.animate-arrow-vibrate { animation: var(--animate-arrow-vibrate); }
+
+/* Szacunek dla prefers-reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  .animate-vibrate-x,
+  .animate-text-burst,
+  .animate-arrow-vibrate {
+    animation: none !important;
+  }
+}
+
+/* ==========================================================================
+   Utilities: layout, efekty i typografia
+   ========================================================================== */
+/* Alias tła fullscreen zamiast inline style w NavBar */
+.bg-full {
+  /* Możesz zamienić na token, jeśli przeniesiesz tę wartość do @theme inline */
+  background: rgba(8, 10, 12, 0.88);
+}
+
+/* clip-path wstrzykiwany przez CSS variable z NavBar */
+.clip-panel {
+  -webkit-clip-path: var(--panel-clip);
+          clip-path: var(--panel-clip);
+}
+
+/* Szybkie klasy dla lokalnych fontów z next/font/local */
+.font-aventa { font-family: var(--font-aventa), system-ui, sans-serif; }
+.font-orlean { font-family: var(--font-orlean), ui-sans-serif, system-ui, -apple-system, "Segoe UI",
+                               Roboto, Arial, "Noto Sans", "Helvetica Neue", sans-serif; }
+
+/* ==========================================================================
+   Scrollbar: ukryj paski (scroll działa)
+   Globalnie + utilka .no-scrollbar
+   ========================================================================== */
+* {
+  scrollbar-width: none !important;     /* Firefox */
+  -ms-overflow-style: none !important;  /* Stary Edge/IE */
+}
+*::-webkit-scrollbar {
+  width: 0 !important;
+  height: 0 !important;
+}
+*::-webkit-scrollbar-thumb,
+*::-webkit-scrollbar-track {
+  background: transparent !important;
+  border: 0 !important;
+}
+
+/* Dodatkowa utilka do selektywnego ukrywania scrolla */
+.no-scrollbar {
+  scrollbar-width: none !important;
+  -ms-overflow-style: none !important;
+}
+.no-scrollbar::-webkit-scrollbar {
+  width: 0 !important;
+  height: 0 !important;
+}
+
+/* ==========================================================================
+   Kolory zaznaczenia tekstu
+   ========================================================================== */
+::selection {
+  background: #85FDBC;
+  color: #000;
+}
+::-moz-selection {
+  background: #85FDBC;
+  color: #000;
+}
+
+html{ 
+  scroll-behavior:smooth }
+@media (prefers-reduced-motion: reduce){ html{ scroll-behavior:auto } }
+
+.clamp-pad { padding-bottom: .28em; }

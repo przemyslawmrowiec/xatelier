@@ -1,0 +1,90 @@
+{
+  "title": "Politique de confidentialité",
+  "intro": "Cette politique explique comment xatelier traite les données personnelles conformément au RGPD et au droit français (CNIL). Elle couvre nos prestations de création de sites web, design graphique et social media.",
+  "controller": {
+    "h": "Responsable du traitement",
+    "p1": "xatelier (auto-entrepreneur), SIREN 944221241, immatriculé en France.",
+    "p2": "Contact : contact@xatelier.fr. Site : https://xatelier.fr"
+  },
+  "scope": {
+    "h": "Champ d’application",
+    "p1": "S’applique aux utilisateurs du site, aux clients, prospects et à toute personne nous contactant via formulaires, e-mail ou réseaux sociaux."
+  },
+  "data": {
+    "h": "Données collectées",
+    "l1": "Données d’identité et de contact (nom, e-mail, téléphone) lorsque vous nous contactez ou collaborez avec nous.",
+    "l2": "Contenus de projet fournis (briefs, éléments à intégrer).",
+    "l3": "Données techniques (adresse IP, infos navigateur/appareil, journaux serveur) pour la sécurité et les statistiques.",
+    "l4": "Données d’analyse/marketing via cookies ou technologies similaires — uniquement avec votre consentement.",
+    "l5": "Données de facturation lorsque nous émettons des documents comptables."
+  },
+  "sources": {
+    "h": "Provenance",
+    "p1": "Directement auprès de vous (formulaires, e-mail, appels, réseaux sociaux) et via votre utilisation du site (cookies/analytics — si vous consentez)."
+  },
+  "purposes": {
+    "h": "Finalités",
+    "l1": "Répondre aux demandes et communiquer.",
+    "l2": "Préparer des offres et exécuter le contrat (web/graphisme/social).",
+    "l3": "Maintenance et sécurité du service (journaux, prévention des abus).",
+    "l4": "Analyse et marketing en ligne (avec consentement).",
+    "l5": "Obligations légales et comptables."
+  },
+  "legal": {
+    "h": "Fondements juridiques",
+    "l1": "Art. 6(1)(b) RGPD — exécution du contrat ou mesures précontractuelles.",
+    "l2": "Art. 6(1)(f) RGPD — intérêt légitime (sécurité, communications B2B, défense des droits).",
+    "l3": "Art. 6(1)(a) RGPD — consentement (ex. cookies/analytics/marketing).",
+    "l4": "Art. 6(1)(c) RGPD — obligation légale (ex. pièces comptables)."
+  },
+  "cookies": {
+    "h": "Cookies & analytics",
+    "p1": "Nous utilisons des cookies et technologies similaires (p. ex. Google Analytics) pour analyser et améliorer le service. Les cookies d’analyse/marketing ne fonctionnent qu’après votre consentement via le bandeau cookies, révocable à tout moment."
+  },
+  "processors": {
+    "h": "Sous-traitants",
+    "p1": "Nous faisons appel à des prestataires de confiance (hébergement, analytics, domaines, outils social media) qui traitent les données selon nos instructions et un accord de sous-traitance.",
+    "l1": "Hébergement/serveur — site et journaux.",
+    "l2": "Fournisseurs de domaines/messagerie.",
+    "l3": "Analytics (ex. Google Analytics) — statistiques, avec consentement.",
+    "l4": "Outils social/marketing — seulement si vous les utilisez ou consentez.",
+    "p2": "La liste des catégories peut s’étendre aux intégrations nécessaires (ex. facturation) pour fournir nos services."
+  },
+  "transfers": {
+    "h": "Transferts hors EEE",
+    "p1": "En cas de transfert de données hors EEE, nous mettons en place des garanties appropriées (p. ex. clauses contractuelles types)."
+  },
+  "retention": {
+    "h": "Durées de conservation",
+    "l1": "Demandes/correspondance : jusqu’à 24 mois après le dernier contact.",
+    "l2": "Données de projet/contrat : pendant la collaboration et jusqu’à 5 ans après (actions en justice).",
+    "l3": "Documents comptables : jusqu’à 10 ans conformément à la loi.",
+    "l4": "Cookies/analytics : selon le bandeau/les réglages du navigateur ou jusqu’au retrait du consentement."
+  },
+  "security": {
+    "h": "Sécurité",
+    "p1": "Nous appliquons des mesures techniques et organisationnelles adaptées au risque (contrôle d’accès, chiffrement en transit, minimisation des données)."
+  },
+  "minors": {
+    "h": "Mineurs",
+    "p1": "Nos services ne s’adressent pas aux personnes de moins de 15 ans. Nous ne collectons pas sciemment de données d’enfants."
+  },
+  "rights": {
+    "h": "Vos droits",
+    "l1": "Accès et copie de vos données.",
+    "l2": "Rectification.",
+    "l3": "Effacement (droit à l’oubli).",
+    "l4": "Limitation et opposition (y compris au marketing).",
+    "l5": "Portabilité des données.",
+    "l6": "Retrait du consentement à tout moment (sans effet rétroactif)."
+  },
+  "exercise": {
+    "h": "Exercer vos droits / réclamations",
+    "p1": "Contact : contact@xatelier.fr. Vous pouvez également saisir la CNIL (autorité française de protection des données)."
+  },
+  "changes": {
+    "h": "Modifications",
+    "p1": "Cette politique peut être mise à jour périodiquement. La nouvelle version s’applique dès sa publication."
+  },
+  "updated": "Dernière mise à jour : 3 novembre 2024"
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "title": "Von uns geschaffen, von dir definiert"
+  },
+  "categories": {
+    "all": "Alle",
+    "websites": "Websites",
+    "branding": "Branding"
+  },
+  "viewer": {
+    "close": "Schließen",
+    "zoomIn": "Vergrößern",
+    "zoomOut": "Verkleinern",
+    "fitWidth": "An Breite anpassen",
+    "ariaPreview": "Vorschau: {title}"
+  }
+}

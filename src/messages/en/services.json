@@ -1,0 +1,36 @@
+{
+  "header": {
+    "title": "Services",
+    "subtitle": "From brand systems and high-performance websites to mobile apps, SEO, and expressive 3D — here’s what I deliver to move your product forward."
+  },
+  "design": {
+    "title": "Design & Branding",
+    "lead": "I craft cohesive brand systems and elegant interfaces that clarify your message and elevate how customers perceive your product.",
+    "desc": "From identity and guidelines to interface and motion language, visuals are aligned with strategy so every touchpoint feels intentional and premium."
+  },
+  "web": {
+    "title": "Websites & E-commerce",
+    "lead": "High-performance websites and stores that load fast, convert better, and feel great across devices.",
+    "desc": "Custom builds on modern stacks with accessible UX patterns, clear architecture, and the right integrations to support growth."
+  },
+  "mobile": {
+    "title": "Mobile Applications",
+    "lead": "From rapid MVPs to production apps, I design flows that reduce friction and increase retention.",
+    "desc": "Interactive prototypes, clean IA, and purposeful interactions that keep users engaged and moving toward outcomes."
+  },
+  "seo": {
+    "title": "SEO & Optimization",
+    "lead": "Structural, technical, and content improvements that grow organic visibility and boost performance metrics.",
+    "desc": "Auditing speed, semantics, and crawlability, then refining content and metadata for sustainable search momentum."
+  },
+  "threeD": {
+    "title": "3D & Motion",
+    "lead": "Expressive 3D and motion that turn hero sections into memorable product moments.",
+    "desc": "React Three Fiber scenes, particle morphing, lighting & materials, and scroll-synchronized motion tuned to feel smooth and intentional."
+  },
+  "social": {
+    "title": "Social Media & Advertising",
+    "lead": "Creative assets and campaigns built for performance and consistency across platforms.",
+    "desc": "From content systems to ad variations, visuals stay on-brand while optimizing for clarity, thumb-stop, and conversion."
+  }
+}

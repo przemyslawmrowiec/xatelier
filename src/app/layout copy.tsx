@@ -11,15 +11,10 @@ export const metadata: Metadata = {
 export const viewport: Viewport = { themeColor: "#0b1020" };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
-  // Nie ustawiamy tutaj lang — unikamy hydration mismatch między SSR i klientem.
+  // Uwaga: nie wołamy getLocale() w root – locale ogarnia app/[locale]/layout.tsx
   return (
-    <html
-      className={`${aventa.variable} ${orlean.variable}`}
-      suppressHydrationWarning
-    >
-      <body className="bg-[#0b1020] text-[#e8ecf7] antialiased">
-        {children}
-      </body>
+    <html lang="fr" suppressHydrationWarning className={`${aventa.variable} ${orlean.variable}`}>
+      <body className="bg-[#0b1020] text-[#e8ecf7] antialiased">{children}</body>
     </html>
   );
 }

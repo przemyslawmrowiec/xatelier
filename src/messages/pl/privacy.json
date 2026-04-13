@@ -1,0 +1,90 @@
+{
+  "title": "Polityka prywatności",
+  "intro": "Niniejszy dokument opisuje, w jaki sposób xatelier przetwarza dane osobowe zgodnie z RODO/GDPR oraz prawem francuskim (CNIL). Dotyczy to przede wszystkim usług tworzenia stron WWW, grafiki i obsługi social media.",
+  "controller": {
+    "h": "Administrator danych",
+    "p1": "Administratorem danych jest xatelier (auto-entrepreneur), SIREN 944221241, zarejestrowany we Francji.",
+    "p2": "Kontakt: contact@xatelier.fr. Strona: https://xatelier.fr"
+  },
+  "scope": {
+    "h": "Zakres",
+    "p1": "Polityka dotyczy użytkowników strony, klientów, potencjalnych klientów (leadów) oraz osób kontaktujących się z nami przez formularze, e-mail lub media społecznościowe."
+  },
+  "data": {
+    "h": "Jakie dane zbieramy",
+    "l1": "Dane identyfikacyjne i kontaktowe (np. imię, nazwisko, e-mail, telefon) – gdy do nas piszesz lub zamawiasz usługę.",
+    "l2": "Dane projektowe i treści przekazywane przez klienta (np. brief, materiały do wdrożenia).",
+    "l3": "Dane techniczne (np. adres IP, informacje o przeglądarce/urządzeniu, logi serwera) – dla bezpieczeństwa i statystyk.",
+    "l4": "Dane analityczne/marketingowe z plików cookie i podobnych technologii – wyłącznie za Twoją zgodą.",
+    "l5": "Dane rozliczeniowe (np. dane na fakturze) – gdy wystawiamy dokumenty księgowe."
+  },
+  "sources": {
+    "h": "Źródła danych",
+    "p1": "Dane pochodzą bezpośrednio od Ciebie (formularz, e-mail, telefon, social media) oraz z Twojego korzystania z naszej strony (cookies/analityka — jeśli wyrazisz zgodę)."
+  },
+  "purposes": {
+    "h": "Cele przetwarzania",
+    "l1": "Odpowiadanie na zapytania i komunikacja.",
+    "l2": "Przygotowanie ofert i realizacja umowy (projekty www/grafika/social media).",
+    "l3": "Utrzymanie i bezpieczeństwo serwisu (logi, ochrona przed nadużyciami).",
+    "l4": "Analityka i marketing online (po wyrażeniu zgody).",
+    "l5": "Obowiązki prawne (np. księgowość)."
+  },
+  "legal": {
+    "h": "Podstawy prawne",
+    "l1": "Art. 6 ust. 1 lit. b RODO – wykonanie umowy lub działania na Twoje żądanie przed jej zawarciem.",
+    "l2": "Art. 6 ust. 1 lit. f RODO – nasz prawnie uzasadniony interes (bezpieczeństwo, komunikacja B2B, dochodzenie roszczeń).",
+    "l3": "Art. 6 ust. 1 lit. a RODO – zgoda (np. cookies/analityka/marketing).",
+    "l4": "Art. 6 ust. 1 lit. c RODO – obowiązek prawny (np. przechowywanie dokumentów księgowych)."
+  },
+  "cookies": {
+    "h": "Cookies i analityka",
+    "p1": "Używamy plików cookie i podobnych technologii (np. Google Analytics) w celu analityki i optymalizacji serwisu. Pliki analityczne/marketingowe są uruchamiane dopiero po wyrażeniu zgody w banerze cookies. Zgodę możesz w każdej chwili wycofać w ustawieniach cookies przeglądarki lub w banerze."
+  },
+  "processors": {
+    "h": "Podmioty przetwarzające (procesorzy)",
+    "p1": "Korzystamy z zaufanych dostawców (m.in. hosting, analityka, domeny, narzędzia do social media). Przetwarzają oni dane zgodnie z naszymi instrukcjami i umową powierzenia.",
+    "l1": "Hosting/serwer (np. dostawca hostingu) – utrzymanie strony i logów.",
+    "l2": "Dostawcy domen/poczty (np. rejestrator, e-mail).",
+    "l3": "Analityka (np. Google Analytics) – statystyki, wyłącznie za zgodą.",
+    "l4": "Narzędzia social media/marketingowe – wyłącznie jeśli z nich korzystasz lub wyrazisz zgodę.",
+    "p2": "Aktualna lista kategorii podmiotów przetwarzających może być rozszerzana o niezbędne integracje do realizacji usług (np. systemy fakturowe)."
+  },
+  "transfers": {
+    "h": "Przekazywanie poza EOG",
+    "p1": "Jeśli przetwarzanie wymaga transferu danych poza Europejski Obszar Gospodarczy, zapewniamy odpowiednie zabezpieczenia (np. standardowe klauzule umowne)."
+  },
+  "retention": {
+    "h": "Okres przechowywania",
+    "l1": "Korespondencja i zapytania: do 24 miesięcy od ostatniego kontaktu.",
+    "l2": "Dane umowne/projektowe: przez okres trwania współpracy i do 5 lat po jej zakończeniu (doch. roszczeń).",
+    "l3": "Dokumenty księgowe: do 10 lat zgodnie z prawem.",
+    "l4": "Cookies/analityka: zgodnie z ustawieniami banera i przeglądarki (lub do wycofania zgody)."
+  },
+  "security": {
+    "h": "Bezpieczeństwo",
+    "p1": "Stosujemy środki techniczne i organizacyjne adekwatne do ryzyka (m.in. kontrola dostępu, szyfrowanie transmisji, minimalizacja danych)."
+  },
+  "minors": {
+    "h": "Osoby małoletnie",
+    "p1": "Nasze usługi nie są skierowane do osób poniżej 15 roku życia. Nie zbieramy świadomie danych dzieci."
+  },
+  "rights": {
+    "h": "Twoje prawa",
+    "l1": "Dostęp do danych i uzyskanie kopii.",
+    "l2": "Sprostowanie danych.",
+    "l3": "Usunięcie danych („prawo do bycia zapomnianym”).",
+    "l4": "Ograniczenie przetwarzania i sprzeciw (w tym sprzeciw wobec marketingu).",
+    "l5": "Przenoszenie danych.",
+    "l6": "Wycofanie zgody w dowolnym momencie (bez wpływu na zgodność z prawem przetwarzania sprzed wycofania)."
+  },
+  "exercise": {
+    "h": "Jak skorzystać z praw / skarga",
+    "p1": "Napisz do nas: contact@xatelier.fr. Masz również prawo złożyć skargę do CNIL (francuski organ nadzorczy ds. ochrony danych)."
+  },
+  "changes": {
+    "h": "Zmiany w polityce",
+    "p1": "Możemy okresowo aktualizować ten dokument. Nowa wersja zastępuje poprzednią i obowiązuje od chwili publikacji."
+  },
+  "updated": "Ostatnia aktualizacja: 3 listopada 2024 r."
+}

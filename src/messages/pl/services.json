@@ -1,0 +1,36 @@
+{
+  "header": {
+    "title": "Usługi",
+    "subtitle": "Od systemów identyfikacji i szybkich stron WWW po aplikacje mobilne, SEO i ekspresyjną 3D — dostarczam to, co realnie pcha Twój produkt do przodu."
+  },
+  "design": {
+    "title": "Design i Branding",
+    "lead": "Tworzę spójne systemy marki i eleganckie interfejsy, które klarownie komunikują przekaz i podnoszą postrzeganą wartość produktu.",
+    "desc": "Od identyfikacji i księgi znaku po język interfejsu i animacji — wizualia są zgodne ze strategią, aby każdy punkt styku był celowy i premium."
+  },
+  "web": {
+    "title": "Strony WWW i E-commerce",
+    "lead": "Wydajne serwisy i sklepy, które szybko się ładują, lepiej konwertują i świetnie działają na każdym urządzeniu.",
+    "desc": "Własne wdrożenia na nowoczesnych stackach, dostępne wzorce UX, czytelna architektura oraz integracje dopasowane do skalowania."
+  },
+  "mobile": {
+    "title": "Aplikacje mobilne",
+    "lead": "Od szybkich MVP po aplikacje produkcyjne projektuję ścieżki, które redukują tarcie i zwiększają retencję.",
+    "desc": "Interaktywne prototypy, przejrzysta architektura informacji i celowe interakcje, które utrzymują uwagę i prowadzą do efektów."
+  },
+  "seo": {
+    "title": "SEO i Optymalizacja",
+    "lead": "Ulepszenia strukturalne, techniczne i treściowe, które zwiększają widoczność organiczną oraz wyniki wydajnościowe.",
+    "desc": "Audyt szybkości, semantyki i crawlability, a następnie dopracowanie treści i metadanych, by budować trwały ruch z wyszukiwarki."
+  },
+  "threeD": {
+    "title": "3D i Motion",
+    "lead": "Wyrazista 3D i animacje, które zamieniają sekcje hero w zapadające w pamięć momenty produktu.",
+    "desc": "Sceny React Three Fiber, morphing cząsteczek, światło i materiały oraz ruch zsynchronizowany ze scrollowaniem — wszystko z wyczuciem płynności."
+  },
+  "social": {
+    "title": "Social Media i Reklama",
+    "lead": "Kreatywne zasoby i kampanie zaprojektowane pod performance i spójność między platformami.",
+    "desc": "Od systemów treści po warianty reklam — wizualia pozostają zgodne z marką, optymalizując klarowność, zatrzymanie uwagi i konwersję."
+  }
+}

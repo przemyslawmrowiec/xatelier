@@ -1,0 +1,90 @@
+{
+  "title": "Privacy Policy",
+  "intro": "This policy explains how xatelier processes personal data in line with the GDPR and French law (CNIL). It covers our web design, graphic design and social media services.",
+  "controller": {
+    "h": "Data Controller",
+    "p1": "xatelier (auto-entrepreneur), SIREN 944221241, registered in France.",
+    "p2": "Contact: contact@xatelier.fr. Website: https://xatelier.fr"
+  },
+  "scope": {
+    "h": "Scope",
+    "p1": "Applies to website users, clients, prospects and anyone contacting us via forms, email or social media."
+  },
+  "data": {
+    "h": "Data we collect",
+    "l1": "Identity and contact data (name, email, phone) when you contact or work with us.",
+    "l2": "Project content you provide (briefs, assets to implement).",
+    "l3": "Technical data (IP address, browser/device info, server logs) for security and stats.",
+    "l4": "Analytics/marketing data via cookies or similar technologies — only with your consent.",
+    "l5": "Billing data (invoice details) when we issue accounting documents."
+  },
+  "sources": {
+    "h": "Sources",
+    "p1": "Directly from you (forms, email, calls, social media) and from your use of our site (cookies/analytics — if you consent)."
+  },
+  "purposes": {
+    "h": "Purposes",
+    "l1": "Responding to enquiries and communication.",
+    "l2": "Preparing proposals and performing a contract (web/graphics/social).",
+    "l3": "Service maintenance and security (logs, abuse prevention).",
+    "l4": "Analytics and online marketing (with consent).",
+    "l5": "Legal and accounting obligations."
+  },
+  "legal": {
+    "h": "Legal bases",
+    "l1": "Art. 6(1)(b) GDPR — contract performance or pre-contractual steps.",
+    "l2": "Art. 6(1)(f) GDPR — legitimate interests (security, B2B comms, claims).",
+    "l3": "Art. 6(1)(a) GDPR — consent (e.g., cookies/analytics/marketing).",
+    "l4": "Art. 6(1)(c) GDPR — legal obligation (e.g., accounting records)."
+  },
+  "cookies": {
+    "h": "Cookies & analytics",
+    "p1": "We use cookies and similar tech (e.g., Google Analytics) to analyse and improve the service. Analytics/marketing cookies run only after you give consent in the cookie banner, which you can withdraw at any time."
+  },
+  "processors": {
+    "h": "Processors",
+    "p1": "We rely on trusted providers (hosting, analytics, domains, social tools). They process data under our instructions and a data processing agreement.",
+    "l1": "Hosting/server — site hosting and logs.",
+    "l2": "Domains/mail providers — domain and email services.",
+    "l3": "Analytics (e.g., Google Analytics) — stats, only with consent.",
+    "l4": "Social/marketing tools — only if you use them or consent.",
+    "p2": "The list of processor categories may expand to essential integrations (e.g., invoicing systems) to provide services."
+  },
+  "transfers": {
+    "h": "International transfers",
+    "p1": "If data is transferred outside the EEA, we ensure appropriate safeguards (e.g., Standard Contractual Clauses)."
+  },
+  "retention": {
+    "h": "Retention",
+    "l1": "Enquiries and correspondence: up to 24 months from last contact.",
+    "l2": "Project/contract data: for the project term and up to 5 years afterwards (claims).",
+    "l3": "Accounting documents: up to 10 years, per law.",
+    "l4": "Cookies/analytics: per banner/browser settings or until consent is withdrawn."
+  },
+  "security": {
+    "h": "Security",
+    "p1": "We apply technical and organisational measures appropriate to the risk (access control, encrypted transport, data minimisation)."
+  },
+  "minors": {
+    "h": "Minors",
+    "p1": "Our services are not directed to persons under 15. We do not knowingly collect children’s data."
+  },
+  "rights": {
+    "h": "Your rights",
+    "l1": "Access and a copy of your data.",
+    "l2": "Rectification.",
+    "l3": "Erasure (right to be forgotten).",
+    "l4": "Restriction and objection (including to marketing).",
+    "l5": "Data portability.",
+    "l6": "Withdraw consent at any time (without affecting prior processing lawfulness)."
+  },
+  "exercise": {
+    "h": "Exercising rights / complaints",
+    "p1": "Contact: contact@xatelier.fr. You may also lodge a complaint with the CNIL (French data protection authority)."
+  },
+  "changes": {
+    "h": "Changes",
+    "p1": "We may update this policy from time to time. The new version applies upon publication."
+  },
+  "updated": "Last updated: 3 November 2024"
+}

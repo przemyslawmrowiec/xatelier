@@ -1,0 +1,17 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "projects": "Projekte",
+    "contact": "Kontakt",
+    "connectWithUs": "Bleiben wir in Kontakt",
+    "workingTitle": "Arbeitest du an etwas Spannendem?",
+    "letsTalk": "Lass uns sprechen",
+    "whatsappText": "Hallo! Ich möchte über ein Projekt mit xatelier.eu sprechen.",
+    "openMenuAria": "Menü öffnen",
+    "closeMenuAria": "Menü schließen",
+    "contactWhatsappAria": "Über WhatsApp kontaktieren",
+    "openLangMenuAria": "Sprachauswahl öffnen",
+    "switchTo": "Wechseln zu {lang}"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "header": {
+    "title": "Leistungen",
+    "subtitle": "Von Marken­systemen und High-Performance-Websites bis hin zu Mobile-Apps, SEO und ausdrucksstarker 3D — das liefere ich, um Ihr Produkt voranzubringen."
+  },
+  "design": {
+    "title": "Design & Branding",
+    "lead": "Ich entwickle kohärente Markensysteme und elegante Interfaces, die Ihre Botschaft klären und die Wahrnehmung Ihres Produkts erhöhen.",
+    "desc": "Von Identity und Guidelines bis zu Interface- und Motion-Language sind Visuals strategisch ausgerichtet, damit jeder Touchpoint beabsichtigt und hochwertig wirkt."
+  },
+  "web": {
+    "title": "Websites & E-Commerce",
+    "lead": "Hochperformante Websites und Shops, die schnell laden, besser konvertieren und sich auf allen Geräten großartig anfühlen.",
+    "desc": "Individuelle Builds auf modernen Stacks mit zugänglichen UX-Patterns, klarer Architektur und passenden Integrationen für Wachstum."
+  },
+  "mobile": {
+    "title": "Mobile Anwendungen",
+    "lead": "Vom schnellen MVP bis zur produktiven App gestalte ich Flows, die Reibung reduzieren und Retention steigern.",
+    "desc": "Interaktive Prototypen, klare Informationsarchitektur und zielgerichtete Interaktionen, die Nutzer binden und zu Ergebnissen führen."
+  },
+  "seo": {
+    "title": "SEO & Optimierung",
+    "lead": "Strukturelle, technische und inhaltliche Verbesserungen, die die organische Sichtbarkeit und Performance-Metriken erhöhen.",
+    "desc": "Audit von Speed, Semantik und Crawlability, anschließend Feinschliff von Content und Metadaten für nachhaltige Suchdynamik."
+  },
+  "threeD": {
+    "title": "3D & Motion",
+    "lead": "Ausdrucksstarke 3D und Motion, die Hero-Sektionen in merkfähige Produktmomente verwandeln.",
+    "desc": "React-Three-Fiber-Szenen, Partikel-Morphing, Licht & Materialien sowie scroll-synchronisierte Animationen mit geschmeidigem Look."
+  },
+  "social": {
+    "title": "Social Media & Advertising",
+    "lead": "Kreative Assets und Kampagnen, die auf Performance und plattformübergreifende Konsistenz ausgelegt sind.",
+    "desc": "Von Content-Systemen bis Anzeigenvarianten bleiben Visuals on-brand und optimieren Klarheit, Scroll-Stopp und Conversion."
+  }
+}

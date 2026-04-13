@@ -1,0 +1,17 @@
+{
+  "header": {
+    "title": "Tworzymy my, definiujesz Ty"
+  },
+  "categories": {
+    "all": "Wszystkie",
+    "websites": "Strony WWW",
+    "branding": "Branding"
+  },
+  "viewer": {
+    "close": "Zamknij",
+    "zoomIn": "Powiększ",
+    "zoomOut": "Pomniejsz",
+    "fitWidth": "Dopasuj do szerokości",
+    "ariaPreview": "Podgląd: {title}"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "header": {
+    "title": "Services",
+    "subtitle": "De l’identité de marque et des sites web haute performance aux applications mobiles, au SEO et à la 3D expressive — voici ce que je mets en œuvre pour faire avancer votre produit."
+  },
+  "design": {
+    "title": "Design & Branding",
+    "lead": "Je conçois des systèmes de marque cohérents et des interfaces élégantes qui clarifient votre message et renforcent la perception de votre produit.",
+    "desc": "De l’identité et des guidelines au langage d’interface et d’animation, les visuels s’alignent sur la stratégie pour que chaque point de contact soit intentionnel et premium."
+  },
+  "web": {
+    "title": "Sites web & E-commerce",
+    "lead": "Des sites et boutiques haute performance qui se chargent vite, convertissent mieux et offrent une excellente expérience sur tous les appareils.",
+    "desc": "Développements sur des stacks modernes, UX accessible, architecture claire et intégrations adaptées pour soutenir la croissance."
+  },
+  "mobile": {
+    "title": "Applications mobiles",
+    "lead": "Du MVP rapide aux applications en production, je conçois des parcours qui réduisent les frictions et augmentent la rétention.",
+    "desc": "Prototypes interactifs, architecture de l’information claire et interactions utiles qui maintiennent l’engagement et mènent aux résultats."
+  },
+  "seo": {
+    "title": "SEO & Optimisation",
+    "lead": "Améliorations structurelles, techniques et éditoriales pour accroître la visibilité organique et les performances.",
+    "desc": "Audit de la vitesse, de la sémantique et de l’exploration, puis affinage des contenus et métadonnées pour un élan durable en recherche."
+  },
+  "threeD": {
+    "title": "3D & Motion",
+    "lead": "Une 3D expressive et des animations qui transforment les sections héro en moments produits mémorables.",
+    "desc": "Scènes React Three Fiber, morphing de particules, éclairages & matériaux, et animations synchronisées au scroll pour une fluidité maîtrisée."
+  },
+  "social": {
+    "title": "Social Media & Publicité",
+    "lead": "Des ressources créatives et des campagnes pensées pour la performance et la cohérence cross-plateformes.",
+    "desc": "Des systèmes de contenu aux variantes d’annonces, les visuels restent on-brand tout en optimisant la clarté, l’arrêt du défilement et la conversion."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "title": "Conçu par nous, défini par vous"
+  },
+  "categories": {
+    "all": "Tous",
+    "websites": "Sites web",
+    "branding": "Branding"
+  },
+  "viewer": {
+    "close": "Fermer",
+    "zoomIn": "Agrandir",
+    "zoomOut": "Réduire",
+    "fitWidth": "Ajuster à la largeur",
+    "ariaPreview": "Aperçu : {title}"
+  }
+}

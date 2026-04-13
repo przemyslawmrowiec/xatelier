@@ -1,0 +1,15 @@
+{
+  "home": "Start",
+  "services": "Usługi",
+  "projects": "Projekty",
+  "contact": "Kontakt",
+  "connectWithUs": "Pozostańmy w kontakcie",
+  "workingTitle": "Pracujesz nad czymś ekscytującym?",
+  "letsTalk": "Porozmawiajmy",
+  "whatsappText": "Cześć! Chciałbym porozmawiać o projekcie z xatelier.eu.",
+  "openMenuAria": "Otwórz menu",
+  "closeMenuAria": "Zamknij menu",
+  "contactWhatsappAria": "Skontaktuj się przez WhatsApp",
+  "openLangMenuAria": "Otwórz wybór języka",
+  "switchTo": "Zmień na {lang}"
+}

@@ -1,0 +1,17 @@
+{
+  "header": {
+    "title": "Crafted by Us, Defined by You"
+  },
+  "categories": {
+    "all": "All",
+    "websites": "Websites",
+    "branding": "Branding"
+  },
+  "viewer": {
+    "close": "Close",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "fitWidth": "Fit width",
+    "ariaPreview": "{title} preview"
+  }
+}
