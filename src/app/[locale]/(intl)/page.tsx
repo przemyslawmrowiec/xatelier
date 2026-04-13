@@ -5,7 +5,7 @@ import Hero3D from "@/app/components/Hero3D";
 import ServicesSection from "@/app/components/ServicesSection";
 import ProjectsSection from "@/app/components/ProjectsSection";
 import SmoothHash from "@/app/components/SmoothHash";
-import Footer from "@/app/components/footer"; // ⬅️ DODANE
+import Footer from "@/app/components/footer"; // 
 
 export default function HomePage() {
   return (
